@@ -15,7 +15,7 @@ Here you’ll find all my questions and answers about frontend technologies in o
 | 5️⃣   | SUDHIR js         | [View Q&A](sudhir-js/README.md) |
 | 6️⃣   | Tailwind CSS      | [View Q&A](tail-wind-css/README.md) |
 | 7️⃣   | React-JS          | [View Q&A](react-js/README.md) |
-| 8️⃣   | placeHolder       | [View Q&A](tail-wind-css/README.md) |
+| 8️⃣   | Sudhir-react      | [View Q&A](react-sudhir/README.md) |
 | 9️⃣   | placeHolder       | [View Q&A](tail-wind-css/README.md) |
 | 🔟   | placeHolder       | [View Q&A](tail-wind-css/README.md) |
 
